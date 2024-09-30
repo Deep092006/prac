@@ -14,3 +14,7 @@ button{
 h1::first-letter{
     color: blue;
 }
+#ds + label{
+    color: green;
+    background-color: yellow;
+}
