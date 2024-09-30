@@ -18,3 +18,7 @@ h1::first-letter{
     color: green;
     background-color: yellow;
 }
+#ds:checked + label{
+    color: rgb(77, 0, 128);
+    background-color: rgb(221, 19, 171);
+}
